@@ -1,0 +1,12 @@
+{
+  "name": "jtran/328/gr-pets",
+  "authors": [
+    {
+      "name": "Jacob Tran",
+      "email": "jtran13@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
